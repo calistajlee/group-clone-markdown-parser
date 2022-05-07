@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-//https://howtodoinjava.com/java/io/java-read-file-to-string-examples/
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -58,9 +56,7 @@ public class MarkdownParse {
 }
         // System.out.println("HELLO REMEMBER TO REMOVE ME!");
 
-=======
 //https://howtodoinjava.com/java/io/java-read-file-to-string-examples/
-
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -119,4 +115,3 @@ public class MarkdownParse {
 }
         // System.out.println("HELLO REMEMBER TO REMOVE ME!");
 
->>>>>>> c79888aa98090700a69ddeaaa96e49fd5f92280b
