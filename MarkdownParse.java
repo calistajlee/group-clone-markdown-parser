@@ -6,6 +6,7 @@ import java.util.ArrayList;
 
 public class MarkdownParse {
 
+<<<<<<< HEAD
     public static ArrayList<String> getLinks(String markdown) {
         ArrayList<String> toReturn = new ArrayList<>();
         // find the next [, then find the ], then find the (, then read link upto next )
@@ -65,6 +66,8 @@ import java.util.ArrayList;
 public class MarkdownParse {
 
     
+=======
+>>>>>>> f8366172dd9abe21c57936632f7c132f12de5294
     public static ArrayList<String> getLinks(String markdown) {
         ArrayList<String> toReturn = new ArrayList<>();
         // find the next [, then find the ], then find the (, then read link upto next )

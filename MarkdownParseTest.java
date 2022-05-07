@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /*
 Windows: 
 javac -cp ".;lib\junit-4.13.2.jar;lib\hamcrest-core-1.3.jar" MarkdownParseTest.java
@@ -214,7 +213,6 @@ public class MarkdownParseTest {
 }
 
 
-=======
 /*
 Windows: 
 javac -cp ".;lib\junit-4.13.2.jar;lib\hamcrest-core-1.3.jar" MarkdownParseTest.java
@@ -422,4 +420,3 @@ public class MarkdownParseTest {
 }
 
 
->>>>>>> c79888aa98090700a69ddeaaa96e49fd5f92280b
